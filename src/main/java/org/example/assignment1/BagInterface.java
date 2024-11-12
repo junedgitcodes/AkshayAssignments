@@ -1,5 +1,5 @@
 
-package org.example;
+package org.example.assignment1;
 /**
  An interface that describes the operations of a bag of objects.
  @author Frank M. Carrano

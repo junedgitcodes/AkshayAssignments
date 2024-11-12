@@ -1,4 +1,4 @@
-package org.example;
+package org.example.assignment1;
 
 /**
  * Author: Akshay Vilas Patil

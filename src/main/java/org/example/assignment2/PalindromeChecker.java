@@ -5,6 +5,7 @@ import java.util.Stack;
 
 public class PalindromeChecker {
 
+
     public static void main(String[] args) {
         // Author: Juned
         Scanner scanner = new Scanner(System.in);
